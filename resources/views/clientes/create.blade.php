@@ -3,7 +3,7 @@
 <title>Registro de cliente</title>
 @endsection
 @section('script')
-
+a
 
 <script type="text/javascript">
 $(document).ready(function() {
